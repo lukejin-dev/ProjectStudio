@@ -1,0 +1,6 @@
+[global]
+http-timeout = 
+http-proxy-exceptions = 
+http-proxy-port = 911
+http-proxy-host = proxy01.pd.intel.com
+

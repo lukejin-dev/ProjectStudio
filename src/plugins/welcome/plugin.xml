@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?ProjectStudio version="1.0"?>
+<plugin>
+    <name>Welcome</name>
+    <author>Lu, Ken</author>
+    <description>
+        Welcome Page
+        </description> 
+    <extension>
+        <point>welcome</point>
+        <location>.</location>
+    </extension>
+</plugin>

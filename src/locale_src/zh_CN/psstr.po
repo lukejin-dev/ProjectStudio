@@ -1,0 +1,135 @@
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: wxPython i18n demo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2006-12-01 09:52-0800\n"
+"PO-Revision-Date: 2009-09-10 15:40+0800\n"
+"Last-Translator: ken <tech.ken.lu@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "File"
+msgstr "文件"
+
+msgid "Open"
+msgstr "打开"
+
+msgid "Close"
+msgstr "关闭"
+
+msgid "Close All"
+msgstr "关闭所有"
+
+msgid "Save"
+msgstr "保存"
+
+msgid "Save As"
+msgstr "另存为"
+
+msgid "Save All"
+msgstr "保存所有"
+
+msgid "Quit"
+msgstr "退出"
+
+msgid "Window"
+msgstr "窗口"
+
+msgid "Help"
+msgstr "帮助"
+
+msgid "Output"
+msgstr "输出"
+
+msgid "English"
+msgstr "英语"
+
+msgid "Chinese"
+msgstr "中文"
+
+msgid "Japanese"
+msgstr "日语"
+
+msgid "New"
+msgstr "新建"
+
+msgid "Language"
+msgstr "语言"
+
+msgid "Restore Layout"
+msgstr "还原视图"
+
+msgid "About"
+msgstr "关于"
+
+msgid "Switch Window"
+msgstr "切换窗口"
+
+msgid "FileExplorer"
+msgstr "文件夹"
+
+msgid "Change Language"
+msgstr "改变语言"
+
+msgid "Welcome"
+msgstr "欢迎"
+
+msgid "Untitled"
+msgstr "无标题"
+
+msgid "&Edit"
+msgstr "编辑(&E)"
+
+msgid "&View"
+msgstr "视图(&V)"
+
+msgid "Latest Opened"
+msgstr "最近打开的文件"
+
+msgid "Copy"
+msgstr "复制"
+
+msgid "Cut"
+msgstr "剪切"
+
+msgid "Paste"
+msgstr "粘贴"
+
+msgid "Result"
+msgstr "结果"
+
+msgid "&Search"
+msgstr "搜索(&S)"
+
+msgid "Close Others"
+msgstr "关闭其他"
+
+msgid "Copy Filename"
+msgstr "保存文件名"
+
+msgid "Search In Files"
+msgstr "在文件中搜索"
+
+msgid "Replace"
+msgstr "替换"
+
+msgid "Replace In Files"
+msgstr "在文件中替换"
+
+msgid "Line Numbers"
+msgstr "显示行号"
+
+msgid "Space Character"
+msgstr "显示空格"
+
+msgid "EOL Character"
+msgstr "显示换行符"
+
+msgid "Indentation Guide"
+msgstr "显示缩进"

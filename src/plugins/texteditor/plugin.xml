@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?ProjectStudio version="1.0" another="11"?>
+<plugin>
+    <name>TextEditor</name>
+    <author>Lu, Ken</author>
+    <description>Text Editor</description> 
+    <extension>
+        <point>plugin</point>
+        <location>src</location>
+    </extension>
+</plugin>

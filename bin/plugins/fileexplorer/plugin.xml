@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?ProjectStudio version="1.0" another="11"?>
+<plugin>
+    <name>FileExplorer</name>
+    <author>Lu, Ken</author>
+    <homepage>http://ambereditor.googlecode.com</homepage>
+    <description>
+        File Explorer Pane
+        </description> 
+    <extension>
+        <point>fileexplorer</point>
+        <location>src</location>
+    </extension>
+    <library>
+        <ostype>win32</ostype>
+        <location>libs</location>
+    </library>
+</plugin>

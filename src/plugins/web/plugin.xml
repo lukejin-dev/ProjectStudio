@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?ProjectStudio version="1.0" another="11"?>
+<plugin>
+    <name>Web</name>
+    <author>Lu, Ken</author>
+    <description>WebPage</description> 
+    <extension>
+        <point>webplugin</point>
+        <location>src</location>
+    </extension>
+</plugin>
